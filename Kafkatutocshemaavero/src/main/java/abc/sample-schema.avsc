@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "namespace": "com.example.demo.model",
+  "name": "personne2",
+  "version": "1",
+  "fields": [
+    {
+      "name": "firstName",
+      "type": "string"
+    },
+    {
+      "name": "lastName",
+      "type": "string"
+    }
+    
+  ]
+}
